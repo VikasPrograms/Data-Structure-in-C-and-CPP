@@ -4,7 +4,7 @@
 // Input         :  Int
 // Output        :  Int
 // Author        :  Vikas Bade
-// Date          :  18 May 2021
+// Date          :  24 Jully 2022
 //
 //----------------------------------------------------------------------
 
@@ -47,7 +47,7 @@ class Stack
 //
 //
 // Class Name       :   Stack
-// Function Date    :   18 May 2021
+// Function Date    :   24 Jully 2022
 // Function Author  :   Vikas Bade
 // Parameters       :   NONE
 // Description      :   This Is Constructor Of Class Stack
@@ -73,7 +73,7 @@ Stack :: ~Stack()
 //
 //
 // Function Name    :   Push()
-// Function Date    :   18 May 2021
+// Function Date    :  24 Jully 2022
 // Function Author  :   Vikas Bade
 // Parameters       :   int 
 // Description      :   Push Function Add New Node / Element At Top Of A Stack 
@@ -98,7 +98,7 @@ void Stack :: Push(int iNo) // insertfirst()
 //
 //
 // Function Name    :   Pop()
-// Function Date    :   18 May 2021
+// Function Date    :   24 Jully 2022
 // Function Author  :   Vikas Bade
 // Parameters       :   -- 
 // Description      :   Pop Function Remove Node / Element From Top Of A Stack 
@@ -133,7 +133,7 @@ int Stack :: Pop() // delete first
 //
 //
 // Function Name    :   Peek()
-// Function Date    :   18 May 2021
+// Function Date    :   24 Jully 2022
 // Function Author  :   Vikas Bade
 // Parameters       :   -- 
 // Description      :   Peek Function Returns Top Most Node / Element Of A Stack 
@@ -161,7 +161,7 @@ int Stack :: Peek()
 //
 //
 // Function Name    :   Display()
-// Function Date    :   18 May 2021
+// Function Date    :   24 Jully 2022
 // Function Author  :   Vikas Bade
 // Parameters       :   ----
 // Description      :   Display Function Display The Nodes / Elements In Stack 
@@ -187,7 +187,7 @@ void Stack :: Display()
 //
 //
 // Function Name    :   Count()
-// Function Date    :   18 May 2021
+// Function Date    :   24 Jully 2022
 // Function Author  :   Vikas Bade
 // Parameters       :   ----
 // Description      :   Count Function Count Number Of Nodes / Elements In The Stack 
@@ -207,7 +207,7 @@ int Stack :: Count()
 //
 //
 // Function Name   :   Entry Point Function
-// Function Date   :   18 May 2021
+// Function Date   :   24 Jully 2022
 // Function Author  :   Vikas Bade
 // Brif Description :  Function Calls For Above Created Functions With Dynamic Input
 //
