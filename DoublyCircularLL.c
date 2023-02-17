@@ -4,7 +4,7 @@
 // Input         :  Int
 // Output        :  Int
 // Author        :  Vikas Bade
-// Date          :  17 May 2021
+// Date          : 14 Jully 2022
 //
 //----------------------------------------------------------------------
 
@@ -28,7 +28,7 @@ int iSize = 0,i = 0;
 //
 //
 // Function Name    :   InsertFirst()
-// Function Date    :   17 May 2021
+// Function Date    :  14 Jully 2022
 // Function Author  :   Vikas Bade
 // Parameters       :   PPNODE Head, PPNODE Tail, int 
 // Description      :   InsertFirst Function Add New Node At Beginning Of LinkedList 
@@ -67,7 +67,7 @@ void InsertFirst (PPNODE Head, PPNODE Tail, int iNo)
 //
 //
 // Function Name    :   InsertLast()
-// Function Date    :   17 May 2021
+// Function Date    :  14 Jully 2022
 // Function Author  :   Vikas Bade
 // Parameters       :   PPNODE Head, PPNODE Tail, int 
 // Description      :   InsertLast Function Add New Node At End Of LinkedList 
@@ -106,7 +106,7 @@ void InsertLast (PPNODE Head, PPNODE Tail, int iNo)
 //
 //
 // Function Name    :   InsertAtPos()
-// Function Date    :   17 May 2021
+// Function Date    :   14 Jully 2022
 // Function Author  :   Vikas Bade
 // Parameters       :   PPNODE Head, PPNODE Tail, int, int
 // Description      :   InsertAtPosition Function Add New Node At Given Position In The LinkedList 
@@ -159,7 +159,7 @@ void InsertAtPos (PPNODE Head, PPNODE Tail, int iNo, int iPos)
 //
 //
 // Function Name    :   DeleteFirst()
-// Function Date    :   17 May 2021
+// Function Date    :  14 Jully 2022
 // Function Author  :   Vikas Bade
 // Parameters       :   PPNODE Head, PPNODE Tail
 // Description      :   DeleteFirst Function Remove The Node From Beginning Of The LinkedList 
@@ -198,7 +198,7 @@ void DeleteFirst (PPNODE Head, PPNODE Tail)
 //
 //
 // Function Name    :   DeleteLast()
-// Function Date    :   17 May 2021
+// Function Date    :   14 Jully 2022
 // Function Author  :   Vikas Bade
 // Parameters       :   PPNODE Head, PPNODE Tail
 // Description      :   DeleteLast Function Remove The Node At End Of The LinkedList 
@@ -238,7 +238,7 @@ void DeleteLast (PPNODE Head, PPNODE Tail)
 //
 //
 // Function Name    :   DeleteAtPos()
-// Function Date    :   17 May 2021
+// Function Date    : 14 Jully 2022
 // Function Author  :   Vikas Bade
 // Parameters       :   PPNODE Head, PPNODE Tail, int
 // Description      :   DeleteAtPosition Function Remove Existing Node At Any Position In The LinkedList 
@@ -287,7 +287,7 @@ void DeleteAtPos (PPNODE Head, PPNODE Tail, int iPos)
 //
 //
 // Function Name    :   Display()
-// Function Date    :   17 May 2021
+// Function Date    :   14 Jully 2022
 // Function Author  :   Vikas Bade
 // Parameters       :   PPNODE Head, PPNODE Tail
 // Description      :   Display Function Display The Nodes In LinkedList 
@@ -311,7 +311,7 @@ void Display (PNODE Head, PNODE Tail)
 //
 //
 // Function Name    :   Count()
-// Function Date    :   17 May 2021
+// Function Date    :   14 Jully 2022
 // Function Author  :   Vikas Bade
 // Parameters       :   ----
 // Description      :   Count Function Count Number Of Nodes In LinkedList 
@@ -331,7 +331,7 @@ int Count()
 //
 //
 // Function Name   :   Entry Point Function
-// Function Date   :   17 May 2021
+// Function Date   :   14 Jully 2022
 // Function Author  :   Vikas Bade
 // Brif Description :  Function Calls For Above Created Functions With Dynamic Input
 //
