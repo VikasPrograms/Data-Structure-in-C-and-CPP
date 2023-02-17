@@ -4,7 +4,7 @@
 // Input         :  Int
 // Output        :  Int
 // Author        :  Vikas Bade
-// Date          :  13 May 2021
+// Date          :  13 Jully 2022
 //
 //----------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ class SinglyLL // create class
 //
 //
 // Class Name       :   SinglyLL
-// Function Date    :   13 May 2021
+// Function Date    :   13 Jully 2022
 // Function Author  :   Vikas Bade
 // Parameters       :   NONE
 // Description      :   This Is Constructor Of Class SinglyLL
@@ -57,7 +57,7 @@ class SinglyLL // create class
 //
 //
 // Function Name    :   Count()
-// Function Date    :   13 May 2021
+// Function Date    :   13 Jully 2022
 // Function Author  :   Vikas Bade
 // Parameters       :   ----
 // Description      :   Count Function Count Number Of Nodes In LinkedList 
@@ -78,7 +78,7 @@ class SinglyLL // create class
 //
 //
 // Function Name    :   Display()
-// Function Date    :   13 May 2021
+// Function Date    :   13 Jully 2022
 // Function Author  :   Vikas Bade
 // Parameters       :   PPNODE Head
 // Description      :   Display Function Display The Nodes In LinkedList 
@@ -103,7 +103,7 @@ class SinglyLL // create class
 //
 //
 // Function Name    :   InsertFirst()
-// Function Date    :   13 May 2021
+// Function Date    :   13 Jully 2022
 // Function Author  :   Vikas Bade
 // Parameters       :   int 
 // Description      :   InsertFirst Function Add New Node At Beginning Of LinkedList 
@@ -136,7 +136,7 @@ class SinglyLL // create class
 //
 //
 // Function Name    :   InsertLast()
-// Function Date    :   13 May 2021
+// Function Date    :   13 Jully 2022
 // Function Author  :   Vikas Bade
 // Parameters       :   int 
 // Description      :   InsertLast Function Add New Node At End Of LinkedList 
@@ -173,7 +173,7 @@ class SinglyLL // create class
 //
 //
 // Function Name    :   DeleteFirst()
-// Function Date    :   13 May 2021
+// Function Date    :   13 Jully 2022
 // Function Author  :   Vikas Bade
 // Parameters       :   ----
 // Description      :   DeleteFirst Function Remove The Node From Beginning Of The LinkedList 
@@ -198,7 +198,7 @@ class SinglyLL // create class
 //
 //
 // Function Name    :   DeleteLast()
-// Function Date    :   13 May 2021
+// Function Date    :   13 Jully 2022
 // Function Author  :   Vikas Bade
 // Parameters       :   ----
 // Description      :   DeleteLast Function Remove The Node At End Of The LinkedList 
@@ -236,7 +236,7 @@ class SinglyLL // create class
 //
 //
 // Function Name    :   InsertAtPos()
-// Function Date    :   13 May 2021
+// Function Date    :  13 Jully 2022
 // Function Author  :   Vikas Bade
 // Parameters       :   int, int
 // Description      :   InsertAtPosition Function Add New Node At Given Position In The LinkedList 
@@ -283,7 +283,7 @@ class SinglyLL // create class
 //
 //
 // Function Name    :   DeleteAtPos()
-// Function Date    :   13 May 2021
+// Function Date    :   13 Jully 2022
 // Function Author  :   Vikas Bade
 // Parameters       :   int
 // Description      :   DeleteAtPosition Function Remove Existing Node At Any Position In The LinkedList 
@@ -331,7 +331,7 @@ class SinglyLL // create class
 //
 //
 // Function Name   :   Entry Point Function
-// Function Date   :   13 May 2021
+// Function Date   :   13 Jully 2022
 // Function Author :   Vikas Bade
 // Brif Description :  Function Calls For Above Created Functions With Dynamic Input
 //
