@@ -4,7 +4,7 @@
 // Input         :  Int
 // Output        :  Int
 // Author        :  Vikas Bade
-// Date          :  18 May 2021
+// Date          :  20 Jully 2022
 //
 //----------------------------------------------------------------------
 
@@ -43,7 +43,7 @@ class Queue
 //
 //
 // Class Name       :   Queue
-// Function Date    :   18 May 2021
+// Function Date    :   20 Jully 2022
 // Function Author  :   Vikas Bade
 // Parameters       :   NONE
 // Description      :   This Is Constructor Of Class Queue
@@ -63,7 +63,7 @@ Queue :: Queue()
 //
 //
 // Function Name    :   Display()
-// Function Date    :   18 May 2021
+// Function Date    :   20 Jully 2022
 // Function Author  :   Vikas Bade
 // Parameters       :   ----
 // Description      :   Display Function Display The Elements In Queue
@@ -90,7 +90,7 @@ void Queue :: Display()
 //
 //
 // Function Name    :   Count()
-// Function Date    :   18 May 2021
+// Function Date    :   20 Jully 2022
 // Function Author  :   Vikas Bade
 // Parameters       :   ----
 // Description      :   Count Function Count Number Of Elements In The Queue 
@@ -110,7 +110,7 @@ int Queue :: Count()
 //
 //
 // Function Name    :   Enqueue()
-// Function Date    :   18 May 2021
+// Function Date    :   20 Jully 2022
 // Function Author  :   Vikas Bade
 // Parameters       :   int 
 // Description      :   Enqueue Function Add New Element At Last Of The Queue 
@@ -146,7 +146,7 @@ void Queue :: Enqueue(int iNo) // insertlast
 //
 //
 // Function Name    :   Dequeue()
-// Function Date    :   18 May 2021
+// Function Date    :   20 Jully 2022
 // Function Author  :   Vikas Bade
 // Parameters       :   int 
 // Description      :   Dequeue Function Delete Element From Beginning Of The Queue 
@@ -179,7 +179,7 @@ int Queue :: Dequeue() // deletefirst
 //
 //
 // Function Name   :   Entry Point Function
-// Function Date   :   18 May 2021
+// Function Date   :   20 Jully 2022
 // Function Author  :   Vikas Bade
 // Brif Description :  Function Calls For Above Created Functions With Dynamic Input
 //
