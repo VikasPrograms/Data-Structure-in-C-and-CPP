@@ -5,7 +5,7 @@
 // Input         :  Int
 // Output        :  Int
 // Author        :  Vikas Bade
-// Date          :  14 May 2021
+// Date          :  14 Jully 2022
 //
 //----------------------------------------------------------------------
 
@@ -37,7 +37,7 @@ class DoublyLL
 //
 //
 // Class Name       :   DoublyLL
-// Function Date    :   14 May 2021
+// Function Date    :   14 Jully 2022
 // Function Author  :   Vikas Bade
 // Parameters       :   NONE
 // Description      :   This Is Constructor Of Class DoublyLL
@@ -58,7 +58,7 @@ class DoublyLL
 //
 //
 // Function Name    :   Count()
-// Function Date    :   14 May 2021
+// Function Date    :   14 Jully 2022
 // Function Author  :   Vikas Bade
 // Parameters       :   ----
 // Description      :   Count Function Count Number Of Nodes In LinkedList 
@@ -78,7 +78,7 @@ class DoublyLL
 //
 //
 // Function Name    :   Display()
-// Function Date    :   14 May 2021
+// Function Date    :   14 Jully 2022
 // Function Author  :   Vikas Bade
 // Parameters       :   ----
 // Description      :   Display Function Display The Nodes In LinkedList 
@@ -103,7 +103,7 @@ class DoublyLL
 //
 //
 // Function Name    :   InsertFirst()
-// Function Date    :   14 May 2021
+// Function Date    :   14 Jully 2022
 // Function Author  :   Vikas Bade
 // Parameters       :   int 
 // Description      :   InsertFirst Function Add New Node At Beginning Of LinkedList 
@@ -138,7 +138,7 @@ class DoublyLL
 //
 //
 // Function Name    :   InsertLast()
-// Function Date    :   14 May 2021
+// Function Date    :   14 Jully 2022
 // Function Author  :   Vikas Bade
 // Parameters       :   int 
 // Description      :   InsertLast Function Add New Node At End Of LinkedList 
@@ -177,7 +177,7 @@ class DoublyLL
 //
 //
 // Function Name    :   DeleteFirst()
-// Function Date    :   14 May 2021
+// Function Date    :   14 Jully 2022
 // Function Author  :   Vikas Bade
 // Parameters       :   ----
 // Description      :   DeleteFirst Function Remove The Node From Beginning Of The LinkedList 
@@ -213,7 +213,7 @@ class DoublyLL
 //
 //
 // Function Name    :   DeleteLast()
-// Function Date    :   14 May 2021
+// Function Date    :   14 Jully 2022
 // Function Author  :   Vikas Bade
 // Parameters       :   ----
 // Description      :   DeleteLast Function Remove The Node At End Of The LinkedList 
@@ -251,7 +251,7 @@ class DoublyLL
 //
 //
 // Function Name    :   InsertAtPos()
-// Function Date    :   14 May 2021
+// Function Date    :   14 Jully 2022
 // Function Author  :   Vikas Bade
 // Parameters       :   int, int
 // Description      :   InsertAtPosition Function Add New Node At Given Position In The LinkedList 
@@ -301,7 +301,7 @@ class DoublyLL
 //
 //
 // Function Name    :   DeleteAtPos()
-// Function Date    :   14 May 2021
+// Function Date    :   14 Jully 2022
 // Function Author  :   Vikas Bade
 // Parameters       :   int
 // Description      :   DeleteAtPosition Function Remove Existing Node At Any Position In The LinkedList 
@@ -348,7 +348,7 @@ class DoublyLL
 //
 //
 // Function Name   :   Entry Point Function
-// Function Date   :   14 May 2021
+// Function Date   :   14 Jully 2022
 // Function Author  :   Vikas Bade
 // Brif Description :  Function Calls For Above Created Functions With Dynamic Input
 //
