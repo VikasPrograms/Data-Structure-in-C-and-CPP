@@ -1,8 +1,50 @@
-# Data-Structure-in-C-and-CPP
 
-# DATA STRUCTURE APPLICATIONS BASED ON C AND C++
+ ![](https://i.imgur.com/waxVImv.png)
+<div align="center">
+    <h1>DATA STRUCTURE APPLICATIONS BASED ON C AND C++</h1>
+</div>
+
+![](https://i.imgur.com/waxVImv.png)
+
+<div align="center">
+    <sup>More Info</sup>
+    <br />
+  <sup>Copyright (c) 2021 Vikas Bade</sup>
+</div>
+
+![](https://i.imgur.com/waxVImv.png)
+
+#
+
+### PLATFORM REQUIRED :   
+```
+Windows Platform Or Linux Distributions.
+```
+### ARCHITECTURAL REQUIREMENT :  
+```
+INTEL 32 Bit Processor Or Higher.
+```
+### USER INTERFACE :             
+```
+Command Line Interface.
+```
+### TECHNOLOGY USED : 
+```
+Procedural (C) and Object Oriented (C++) Programming Language.
+```
+#
+![](https://i.imgur.com/waxVImv.png)
 
 
+<div align="center">
+    <h1>ABOUT DATA STRUCTURE APPLICATION</h1>
+</div>
+
+![](https://i.imgur.com/waxVImv.png)
+
+#
+
+```
 1) Singly Linear Linkedlist Using Procedural Approach.
 
 2) Singly Linear Linkedlist Using Object Oriented Approach.
@@ -30,4 +72,5 @@
 13) Binary Search Tree Using Object Oriented Approach.
 
 14) Binary Search Tree Using Procedural Approach.
+
 
